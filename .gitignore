@@ -1,0 +1,5 @@
+.workbuddy/
+_t/
+_tmp_pages/
+node_modules/
+.DS_Store
